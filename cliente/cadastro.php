@@ -9,6 +9,6 @@
     <title>Cadastre-se</title>
 </head>
 <body>
-    
+    teste
 </body>
 </html>
