@@ -44,11 +44,34 @@
     </nav>
     <br>
 
-    <div class="login" style="background-color: black">
-        teste
+    <div class="login">
+        <div class="boxLogin">
+            <img class="logoLogin" src="../assets/cinemark.png" alt="">
+            <form>
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Login</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">Senha</label>
+                    <input type="password" class="form-control" id="exampleInputPassword1">
+                </div>
+                <div class="mb-3">
+                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                    <label class="form-check-label" for="exampleCheck1">Lembrar Senha</label>
+</br>
+</br>
+                    <button type="submit" class="btn btn-danger">Entrar</button>
+</br>
+</br>
+                    <a href="cadastro.php"><p>Cadastre-se</p></a>
+                </div>
+                
+            </form>
+        </div>
     </div>
 
-   
+
 
     <div class="container">
         <footer class="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top">

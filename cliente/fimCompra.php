@@ -41,8 +41,13 @@
         </span>
     </nav>
 
-    <br>
-    <h4>Escolha sua poltrona</h4>
+    <div class="login">
+        <div>
+            <img class="logoLogin" src="../assets/cinemark.png" alt="">
+</br>
+</br>
+
+            <h4>Escolha sua poltrona</h4>
 <div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
   <div class="btn-group me-2" role="group" aria-label="First group">
     <button type="button" class="btn btn-danger">1</button>
@@ -105,10 +110,18 @@
     <button type="button" class="btn btn-danger">21</button>
     <button type="button" class="btn btn-danger">22</button>
   </div>
+  
 </div>
+</br>
+<a href="login.php"><button type="button" class="btn btn-warning">Finalizar Compra</button></a> 
+        </div>
+    </div>
+
+    <br>
+    
 
 </br>
-<a href="login.php"><button type="button" class="btn btn-warning">Finalizar Compra</button></a>
+
 
 <div class="container">
         <footer class="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top">
