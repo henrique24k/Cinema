@@ -36,7 +36,8 @@
         </div>
         </ul>
         <span class="navbar-text">
-            <a class="credenciais" href="">Login</a>/<a href="">Cadastro</a>
+        <img src="../assets/login.png">
+            <a class="credenciais" href="login.php">Entre ou Cadastre-se</a>
         </span>
     </nav>
 

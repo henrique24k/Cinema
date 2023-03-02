@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-ebvjeubujeb
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -39,7 +38,7 @@ ebvjeubujeb
         </ul>
         <span class="navbar-text">
             <img src="../assets/login.png">
-            <a class="credenciais" href="">Entre ou Cadastre-se</a>
+            <a class="credenciais" href="login.php">Entre ou Cadastre-se</a>
         </span>
     </nav>
 

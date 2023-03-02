@@ -36,7 +36,8 @@
         </div>
         </ul>
         <span class="navbar-text">
-            <a class="credenciais" href="">Login</a>/<a href="">Cadastro</a>
+        <img src="../assets/login.png">
+            <a class="credenciais" href="login.php">Entre ou Cadastre-se</a>
         </span>
     </nav>
 
@@ -107,7 +108,7 @@
 </div>
 
 </br>
-<button type="button" class="btn btn-warning">Finalizar Compra</button>
+<a href="login.php"><button type="button" class="btn btn-warning">Finalizar Compra</button></a>
 
 <div class="container">
         <footer class="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top">
